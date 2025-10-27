@@ -1,4 +1,4 @@
-# 🧠 Atividade 3 – Redes Neurais Artificiais (MLP na Covertype)
+# Redes Neurais Artificiais (MLP na Covertype)
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Academic-green.svg)](LICENSE)
